@@ -1,0 +1,2 @@
+# drumsynthesisformax
+master patch WIP
